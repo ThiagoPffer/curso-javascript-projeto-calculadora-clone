@@ -1,0 +1,1 @@
+window.calculator = new CalcController //esta calculadora é uma nova instância da classe CalcController
